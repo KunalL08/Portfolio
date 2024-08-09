@@ -29,7 +29,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "deployUrl" : "https://kunall08.github.io/Portfolio/"
           },
           "configurations": {
             "production": {
